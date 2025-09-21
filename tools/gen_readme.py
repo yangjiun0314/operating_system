@@ -41,7 +41,7 @@ def make_table(rows):
     return "\n".join(out) + "\n"
 
 def render_readme(table_md):
-    body = f"""# Database Systems
+    body = f"""# Oserating System
 
 강의·과제·팀프로젝트 산출물을 **주차별 폴더**로 정리합니다.  
 아래 주차 표는 푸시 시 자동으로 갱신됩니다.
